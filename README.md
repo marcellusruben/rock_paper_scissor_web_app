@@ -6,6 +6,16 @@ This is a simple image classification web app to predict whether an image of a h
 
 The model for the web app was trained with the [rps dataset from Laurence Moroney](http://www.laurencemoroney.com/rock-paper-scissors-dataset/). This is a synthetic dataset of computer generated human hands with different colors that formed either rock, paper, or scissor. 
 
+<p align="center">
+  <img width="700" height="500" src=https://github.com/marcellusruben/rock_paper_scissor_web_app/blob/master/hand_sign.png>
+</p>
+
+Below is the screenshot of the simple web app:
+
+<p align="center">
+  <img width="300" height="500" src=https://github.com/marcellusruben/rock_paper_scissor_web_app/blob/master/rps.png>
+</p>
+
 ## Files
 
 There are six files in this repo:
